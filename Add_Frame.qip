@@ -1,0 +1,10 @@
+
+#QIP file for DSP Builder system Add_Frame
+set_global_assignment -name SEARCH_PATH [file join $::quartus(qip_path) "." ]
+set_global_assignment -name SEARCH_PATH [file join $::quartus(qip_path) "Add_Frame_dspbuilder/hdl" ]
+set_global_assignment -name SEARCH_PATH [file join $::quartus(qip_path) "DSPBuilder_Add_Frame_import" ]
+
+set_global_assignment -name "QIP_FILE" [file join $::quartus(qip_path) "Add_Frame_dspbuilder/hdl/Add_Frame.qip" ]
+set_global_assignment -name "QIP_FILE" [file join $::quartus(qip_path) "DSPBuilder_Add_Frame_import/FrameControl.qip" ]
+set_global_assignment -name "TCL_SCRIPT_FILE" [file join $::quartus(qip_path) "DSPBuilder_Add_Frame_import/FrameControl_add.tcl" ]
+set_global_assignment -name "SOURCE_FILE" [file join $::quartus(qip_path) "DSPBuilder_Add_Frame_import/FrameControl_import.entityimport" ]

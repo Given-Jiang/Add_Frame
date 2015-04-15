@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+ <!--  date: 2015.02.27.11:15:08 -->
+ <component
+   name="Add_Frame"
+   file="Add_Frame.slx"
+   displayName="Add_Frame"
+   version="1.0"
+   description="A DSP Builder System."
+   tags="AUTHORSHIP=DSPBuilder Design"
+   categories="DSPBuilder 7.1 Components"
+   factory="DSPBuilderFactory" />
+ <component
+   name="Add_Frame_Interface"
+   file="Add_Frame.slx"
+   displayName="Add_Frame_Interface"
+   version="1.0"
+   description="A DSP Builder System."
+   tags="AUTHORSHIP=DSPBuilder Design"
+   categories="DSPBuilder Systems"
+   factory="DSPBuilderFactory" />
+ <component
+   name="FrameControl_import"
+   file="DSPBuilder_Add_Frame_import/FrameControl_import.entityimport"
+   displayName="FrameControl_import"
+   version="8.0.0"
+   description=""
+   tags="INTERNAL_COMPONENT=true"
+   categories=""
+   factory="ImportFactory" />
+</library>

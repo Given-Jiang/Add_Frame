@@ -1,0 +1,7 @@
+
+State Machine - |Add_Frame|Add_Frame_GN:\Add_Frame_GN_0:inst_Add_Frame_GN_0|Add_Frame_GN_Add_Frame_Add_Frame_Module:add_frame_add_frame_module_0|FrameControl:frame_control|fstate
+Name fstate.CTRL fstate.FRAME fstate.DATA fstate.IDLE 
+fstate.IDLE 0 0 0 0 
+fstate.DATA 0 0 1 1 
+fstate.FRAME 0 1 0 1 
+fstate.CTRL 1 0 0 1 

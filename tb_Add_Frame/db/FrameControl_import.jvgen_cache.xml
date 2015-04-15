@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jvgen name="FrameControl_import" family="Cyclone V" style="SUPERSET"
+    fixed-name="true" temporary="false">
+    <instance version="8.0.0" decorated-name="FrameControl_import_GN">
+        <port name="clock" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="ctrl_in" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="data_in" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="frame_in" dir="Input" vhdl-type="std_logic"
+            width="1" lowerbound="0"/>
+        <port name="reset" dir="Input" vhdl-type="std_logic" width="1" lowerbound="0"/>
+        <port name="state" dir="Output"
+            vhdl-type="std_logic_vector(3-1 downto 0)" width="3" lowerbound="0"/>
+    </instance>
+    <source-file
+        name="E:\FPGA\SOC\Quartus\quartus\dsp_builder\design\VIP_LIB\Add_Frame\DSPBuilder_Add_Frame_import\FrameControl_import.entityimport" stamp="1424823794709"/>
+    <supersetport name="clock" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="state" dir="Output"
+        vhdl-type="std_logic_vector(3-1 downto 0)" lowerbound="0"/>
+    <supersetport name="reset" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="frame_in" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="data_in" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+    <supersetport name="ctrl_in" dir="Input" vhdl-type="std_logic" lowerbound="0"/>
+</jvgen>

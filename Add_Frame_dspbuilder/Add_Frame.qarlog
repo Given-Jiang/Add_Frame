@@ -1,0 +1,27 @@
+Quartus II Archive log --	E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/Add_Frame.qarlog
+
+Archive:	E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/Add_Frame.qar
+Date:		Fri Feb 27 15:24:48 2015
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.atm
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.dpi
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.hdbx
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.logdb
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.map.kpt
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.qxp_info
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.rcf
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.cmp.scidsc
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.atm
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.dpi
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.hdbx
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.logdb
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.map.kpt
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.qxp_info
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/Add_Frame.map.scidsc
+E:/FPGA/SOC/Quartus/quartus/dsp_builder/design/VIP_LIB/Add_Frame/Add_Frame_dspbuilder/db/tmp_qic_export_dir/qic_export_file_list
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

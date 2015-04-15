@@ -1,0 +1,80 @@
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI
+Info: Analyzing Simulink model
+Info: Analysis was successful
+Info: Generating HDL
+Warning: "No matching role found for Clock_0:clock_output:aclr_out (reset)"
+Info: Generating simulation models.
+Info: HDL generated
+Info: Creating ModelSim testbench script.
+Info: Launching ModelSim
+Info: Running ModelSim testbench 'tb_Add_Frame\tb_Add_Frame.tcl'
+Info: Running ModelSim GUI

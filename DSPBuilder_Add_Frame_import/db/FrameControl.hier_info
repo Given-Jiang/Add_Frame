@@ -1,0 +1,33 @@
+|FrameControl
+clock => fstate.CTRL.CLK
+clock => fstate.FRAME.CLK
+clock => fstate.DATA.CLK
+clock => fstate.IDLE.CLK
+reset => reg_fstate.IDLE.OUTPUTSELECT
+reset => reg_fstate.DATA.OUTPUTSELECT
+reset => reg_fstate.FRAME.OUTPUTSELECT
+reset => reg_fstate.CTRL.OUTPUTSELECT
+reset => state.OUTPUTSELECT
+reset => state.OUTPUTSELECT
+reset => state.OUTPUTSELECT
+ctrl_in => process_1.IN0
+ctrl_in => process_1.IN0
+ctrl_in => Selector2.IN3
+ctrl_in => reg_fstate.DATAB
+ctrl_in => process_1.IN0
+ctrl_in => process_1.IN0
+data_in => process_1.IN1
+data_in => process_1.IN0
+data_in => process_1.IN1
+data_in => process_1.IN0
+frame_in => process_1.IN1
+frame_in => process_1.IN1
+frame_in => process_1.IN1
+frame_in => process_1.IN1
+frame_in => process_1.IN1
+frame_in => process_1.IN1
+state[0] <= state.DB_MAX_OUTPUT_PORT_TYPE
+state[1] <= state.DB_MAX_OUTPUT_PORT_TYPE
+state[2] <= state.DB_MAX_OUTPUT_PORT_TYPE
+
+

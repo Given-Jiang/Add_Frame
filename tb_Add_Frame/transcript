@@ -1,0 +1,303 @@
+# Reading C:/work_station/FPGA/modelsim/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# source tb_Add_Frame.tcl 
+# reading modelsim.ini
+# Loading project DspBuilder
+# ** Warning: [3] ./hdl/alt_dspbuilder_pipelined_adder.vhd(50): (vcom-1246) Range -1 downto 0 is null.
+# 
+# vsim -quiet -t {1 ps} work.tb_Add_Frame 
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator3/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator3/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator8/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator8/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator9/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator9/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator4/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator4/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator5/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator5/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator6/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator6/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator7/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator7/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement4
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement4
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator2/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator2/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator1/LogicalBitOperatori/go2p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator1/LogicalBitOperatori/go2p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator3/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator8/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator9/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator4/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator5/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator6/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator7/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator2/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator1/LogicalBitOperatori/go2p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement4
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder1/PipelinedAdderi/gp/gsn/U0/L2/V
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 1  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder3/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator2/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator7/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator9/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator3/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator5/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_ctrl_decoder_0/logical_bit_operator/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 3  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/if_statement3
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 4  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 4  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 4  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 4  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/pipelined_adder2/PipelinedAdderi/gnp/gusn/U0/L1/U
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 5  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator6/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 5  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator4/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 5  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator8/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 5  Region: /tb_add_frame/dut/add_frame_add_frame_module_0/add_frame_add_frame_module_frame_par_0/logical_bit_operator1/LogicalBitOperatori/go1p
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 6  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+# ** Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+#    Time: 0 ps  Iteration: 6  Instance: /tb_add_frame/dut/add_frame_add_frame_module_0/multiplexer1/nto1Multiplexeri/gc/U0
+#  
